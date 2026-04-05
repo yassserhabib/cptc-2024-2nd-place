@@ -1,32 +1,56 @@
-Collegiate Penetration Testing Competition (CPTC) 2024 - 2nd Place Team
+# 🔴 Collegiate Penetration Testing Competition (CPTC) 2024
 
-Overview
+## 🏆 Achievement
 
-The CPTC is a premier cybersecurity competition that simulates real-world penetration testing engagements. Teams analyze a mock corporate environment, identify vulnerabilities, and present findings to a panel of judges.
-Achievement
+**2nd Place — National Competition**
 
-🏆 2nd Place Finish
-Our team ranked 2nd among numerous competing universities nationwide, demonstrating exceptional technical, analytical, and presentation skills.
-My Contributions
+Our team ranked 2nd among competing universities, demonstrating strong technical, analytical, and reporting capabilities in a simulated real-world penetration testing engagement.
 
-    Conducted vulnerability analysis, network reconnaissance, and privilege escalation.
-    Authored sections of the final penetration testing report, including detailed remediation recommendations.
-    Acted as a penetration tester, collaborating with teammates to prioritize findings and strategies.
+---
 
-Skills Demonstrated
+## 🧠 Overview
 
-    Advanced vulnerability assessment and exploitation
-    Effective communication of technical findings to non-technical stakeholders
-    Incident response and mitigation planning
+The :contentReference[oaicite:0]{index=0} (CPTC) is a nationally recognized competition that simulates professional penetration testing engagements.
 
-Tools Used
+Teams are tasked with assessing a mock corporate environment, identifying vulnerabilities, exploiting weaknesses, and delivering formal reports and presentations to a panel of industry judges.
 
-    Metasploit
-    Nmap
-    Burp Suite
+---
 
-Key Takeaways
+## 🎯 My Contributions
 
-    Successfully collaborated under tight deadlines in a high-pressure environment.
-    Enhanced proficiency in professional penetration testing methodologies.
-    Recognized for strong technical and presentation abilities by industry professionals.
+- Performed network reconnaissance and vulnerability assessment across target systems  
+- Identified and exploited security weaknesses, including privilege escalation paths  
+- Contributed to the final penetration testing report with detailed findings and remediation recommendations  
+- Collaborated with team members to prioritize vulnerabilities and develop exploitation strategies  
+
+---
+
+## 🔧 Skills Demonstrated
+
+- Advanced vulnerability assessment and exploitation  
+- Network and service enumeration  
+- Penetration testing methodology (recon → exploitation → reporting)  
+- Technical communication and reporting for non-technical stakeholders  
+
+---
+
+## 🛠️ Tools Used
+
+- :contentReference[oaicite:1]{index=1}  
+- :contentReference[oaicite:2]{index=2}  
+- :contentReference[oaicite:3]{index=3}  
+
+---
+
+## 🧠 Key Takeaways
+
+- Gained hands-on experience in a full-scope penetration testing engagement  
+- Improved ability to work under pressure in time-constrained scenarios  
+- Strengthened reporting and presentation skills aligned with industry expectations  
+- Recognized for both technical execution and effective communication  
+
+---
+
+## ⚠️ Note
+
+Specific targets, vulnerabilities, and reports are not disclosed due to competition rules and confidentiality requirements.
