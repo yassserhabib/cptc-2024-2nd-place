@@ -10,7 +10,7 @@ Our team ranked 2nd among competing universities, demonstrating strong technical
 
 ## 🧠 Overview
 
-The :contentReference[oaicite:0]{index=0} (CPTC) is a nationally recognized competition that simulates professional penetration testing engagements.
+The Collegiate Penetration Testing Competition (CPTC) is a nationally recognized competition that simulates professional penetration testing engagements.
 
 Teams are tasked with assessing a mock corporate environment, identifying vulnerabilities, exploiting weaknesses, and delivering formal reports and presentations to a panel of industry judges.
 
@@ -36,9 +36,9 @@ Teams are tasked with assessing a mock corporate environment, identifying vulner
 
 ## 🛠️ Tools Used
 
-- :contentReference[oaicite:1]{index=1}  
-- :contentReference[oaicite:2]{index=2}  
-- :contentReference[oaicite:3]{index=3}  
+- Nmap — network scanning and enumeration  
+- Burp Suite — web application testing  
+- Metasploit — exploitation and post-exploitation
 
 ---
 
